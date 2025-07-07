@@ -218,5 +218,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-- Issues: [GitHub Issues](https://github.com/yourusername/chaingpt-ainews-mcp/issues)
-- Discussions: [GitHub Discussions](https://github.com/yourusername/chaingpt-ainews-mcp/discussions)
+- Issues: [GitHub Issues](https://github.com/PlayAINetwork/Chaingpt-mcp/issues)
+- Discussions: [GitHub Discussions](https://github.com/PlayAINetwork/Chaingpt-mcp/discussions)
